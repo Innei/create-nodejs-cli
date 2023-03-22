@@ -14,7 +14,7 @@ specifiers:
   typescript: 4.9.5
   vite: 4.1.4
   vitest: 0.29.7
-  zx: ^7.2.0
+  zx: ^7.2.1
 
 devDependencies:
   '@innei/eslint-config-ts': 0.9.8_typescript@4.9.5
@@ -30,7 +30,7 @@ devDependencies:
   typescript: 4.9.5
   vite: 4.1.4
   vitest: 0.29.7
-  zx: 7.2.0
+  zx: 7.2.1
 
 packages:
 
@@ -648,7 +648,7 @@ packages:
   /@types/git-raw-commits/2.0.1:
     resolution: {integrity: sha512-vE2lbXxqJ0AqMDoP4N6d+WVfbcBla9+z8IL6e+37JNQIwYZCYY0z3J7hdpY8D/VGwFZ0yIYQLcqk8eCnfXsaEg==}
     dependencies:
-      '@types/node': 18.11.18
+      '@types/node': 18.14.6
     dev: true
 
   /@types/inquirer/9.0.3:
@@ -3585,8 +3585,8 @@ packages:
     engines: {node: '>=12.20'}
     dev: true
 
-  /zx/7.2.0:
-    resolution: {integrity: sha512-SMuOZ21zFnBxicw+WMtTv3z3eERh6KBtZExAJaL8EAV+Ev/3M1NIAOkrZ8kRfCzD9acv9heUH/WZctTR4vQxBQ==}
+  /zx/7.2.1:
+    resolution: {integrity: sha512-TgKwppaMLMNAXHhlhbBh7rMoOSx3/9qqnkv8frmhVlSomEuWkDijh/BCmYntkoS7ZQyemApAUyEi24jIrrS+hA==}
     engines: {node: '>= 16.0.0'}
     hasBin: true
     dependencies:
