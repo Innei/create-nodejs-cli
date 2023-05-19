@@ -23,8 +23,8 @@ devDependencies:
     specifier: 8.0.3
     version: 8.0.3
   inquirer:
-    specifier: ^9.2.4
-    version: 9.2.4
+    specifier: ^9.2.5
+    version: 9.2.5
   lint-staged:
     specifier: 13.2.2
     version: 13.2.2
@@ -2058,8 +2058,8 @@ packages:
     resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==}
     dev: true
 
-  /inquirer@9.2.4:
-    resolution: {integrity: sha512-Q2KnguYUxC/GqkAWJBTWpXH1E3Qqh5VZaCqxK5HYYnQmaePKGLgscVfb3L3/32oF6NRW5VpGqUr75uDjtHHqRw==}
+  /inquirer@9.2.5:
+    resolution: {integrity: sha512-Vy3qZFUPKILCgfeg6eEfKSlv4QbwwfGmdoAYqXYGlPEhY4HH0jQv+ynHkEYYE4eBDCDMWKHs77ByfHcy1GyDfA==}
     engines: {node: '>=14.18.0'}
     dependencies:
       ansi-escapes: 4.3.2
